@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-cats",
+	"name": "Cats",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Periodically (and on demand!) shows pictures of random cats to bring some joy into your vault.",
+	"author": "morgulveil",
+	"authorUrl": "https://github.com/AgaCal",
+	"isDesktopOnly": true
+}
